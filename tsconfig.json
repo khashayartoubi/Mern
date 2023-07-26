@@ -111,7 +111,7 @@
 		"**/*.tsx",
 		"routes/api/userRoutes.ts",
 		"utilities/mailer.js"
-	],
+, "controllers/uploadController.js"	],
 	"ts-node": {
 		"esm": true // «———— enabling ESM for ts-node
 	},
